@@ -21,10 +21,18 @@ Hi, it just so happens that you've stumbled upon the homepage of
 <p>
 <center><img src="/assets/img/reza.jpg" alt="drawing" width="200" style="float: right;    
  margin: 0 0 0 15px;"/></center>
- I'm currently a PhD candidate of <a href="https://umdphysics.umd.edu/">Physics at University of Maryland, College Park</a> (UMD).  I am interested in both theoretical and experimental aspects of fundamental physics. 
-</p>
+ I'm currently a PhD candidate in <a href="https://umdphysics.umd.edu/">Physics at the University of Maryland, College Park</a> (UMD). I mainly work in the groups of <a href="https://walsworth.umd.edu/">Ronald Walsworth</a> of UMD, <a href="https://physics-astronomy.jhu.edu/directory/rajendran/">Surjeet Rajendran</a> of Johns Hopkins University, and <a href="https://astronomy.fas.harvard.edu/people/xingang-chen">Xingang Chen</a> of Harvard University.
+ </p>
 <p>
-<!--  <strong>Research interests:</strong> The Standard Model of particle physics successfully describes phenomena ranging from sub-nuclear distances to the size of the universe. It has also withstood every direct experimental probe. Despite these stunning successes, it is not a complete theory of nature, as it fails to account for astronomical and cosmological observations that establish the existence of dark matter and dark energy. Therefore, a pressing puzzle in modern physics is what is the nature of  <strong>dark matter </strong> as well as dark energy? Hot Big Bang cosmology is another breathtakingly successful theory that explains a wide range of cosmological observations. The Big Bang cosmology indicates that the universe began as a soup of Standard Model particles that expanded and cooled to become the structure we see today. A curious mind then may ask: what is the working physics of the  <strong>pre-Big Bang universe </strong>, and what are its components and dynamics that prepare such a hot soup?! -->
+<strong>Research interests:</strong> I’m interested in <font style="color:FireBrick" >precision measurement tests of fundamental physics</font>. I work at the intersection of particle physics, quantum physics, astrophysics and cosmology to uncover novel methods of searching for new physics. The Standard Model of particle physics and Big Bang cosmology are two stunningly successful pillars of our modern understanding of the universe. They successfully describe phenomena ranging from sub-nuclear distances to the size of the universe. Despite these stunning successes, they do not comprise a complete theory of nature, as they fail to account for astronomical and cosmological observations that establish the existence of <font style="color:FireBrick" >dark matter and dark energy</font>. In my research, I seek to understand the nature of these dark components of the universe. I am also interested in understanding the physics of the <font style="color:FireBrick" >pre-Big Bang universe</font>. 
 </p>
-<center><img src="/assets/img/underconstruction.jpg" alt="WELCOME!" width="400" /></center>
+
+<p>
+<strong>CV:</strong> A copy of my CV may be found <a href="/assets/pdf/reza_CV.pdf">here</a>.
+</p>
+
+<p>
+<strong>Publications and Code: </strong> My publications can be found on <a href="https://inspirehep.net/authors/1814731?ui-citation-summary=true">INSPIRE</a> or <a href="https://scholar.google.com/citations?user=jL7V7DIAAAAJ&hl=en">Google Scholar</a>.
+</p>
+<center><img src="/assets/img/underconstruction.jpg" alt="WELCOME!" width="350" /></center>
 <hr>
