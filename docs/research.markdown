@@ -10,12 +10,12 @@ permalink: /research/
 
 **<font color="#137ccf">WIMP Dark Matter</font>**
 * Directional Detection of Dark Matter Using Solid-State Quantum Sensing
-* [*Whitepapers*] Snowmass2021 Cosmic Frontier: Dark Matter Direct Detection to the Neutrino Fog 
+* <font color="#7a7a7a">[*Whitepaper*]</font> Snowmass2021 Cosmic Frontier: Dark Matter Direct Detection to the Neutrino Fog 
 
 **<font color="#137ccf">Ultraheavy Dark Matter</font>**
 * Ultraheavy dark matter search with electron microscopy of geological quartz
-* [*Whitepaper*] Mineral Detection of Neutrinos and Dark Matter
-* [*Whitepaper*] Snowmass2021 Cosmic Frontier: Ultraheavy particle dark matter
+* <font color="#7a7a7a">[*Whitepaper*]</font>  Mineral Detection of Neutrinos and Dark Matter
+* <font color="#7a7a7a">[*Whitepaper*]</font>  Snowmass2021 Cosmic Frontier: Ultraheavy particle dark matter
 
 
 
