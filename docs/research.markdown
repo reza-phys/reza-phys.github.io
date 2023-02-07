@@ -6,28 +6,37 @@ permalink: /research/
 
 ## <font color="#c91313">Dark Matter</font>
 **<font color="#137ccf">Ultralight Dark Matter</font>**
-* coming soon...
+<ul>
+  <li> coming soon...</li>
+</ul>
 
 **<font color="#137ccf">WIMP Dark Matter</font>**
-* Directional Detection of Dark Matter Using Solid-State Quantum Sensing
-* <font color="#7a7a7a">[<i>Whitepaper</i>]</font> Snowmass2021 Cosmic Frontier: Dark Matter Direct Detection to the Neutrino Fog 
+<ul>
+  <li>Directional detection of dark matter using solid-state quantum sensing</li>
+  <li><font color="#7a7a7a">[Whitepaper]</font> Snowmass2021 Cosmic Frontier: Dark Matter Direct Detection to the Neutrino Fog</li>
+</ul>
 
 **<font color="#137ccf">Ultraheavy Dark Matter</font>**
-* Ultraheavy dark matter search with electron microscopy of geological quartz
-* <font color="#7a7a7a">[<i>Whitepaper</i>]</font>  Mineral Detection of Neutrinos and Dark Matter
-* <font color="#7a7a7a">[<i>Whitepaper</i>]</font>  Snowmass2021 Cosmic Frontier: Ultraheavy particle dark matter
-
-
-
+<ul>
+  <li>Ultraheavy dark matter search with electron microscopy of geological quartz</li>
+  <li><font color="#7a7a7a">[Whitepaper]</font>   Mineral Detection of Neutrinos and Dark Matter</li>
+  <li><font color="#7a7a7a">[Whitepaper]</font>  Snowmass2021 Cosmic Frontier: Ultraheavy particle dark matter</li>
+</ul>
 
 ## <font color="#c91313">Quantum Sensing</font>
-* High-Precision Mapping of Diamond Crystal Strain Using Quantum Interferometry
+<ul>
+  <li> High-precision mapping of diamond crystal strain using quantum interferometry</li>
+</ul>
 
 ## <font color="#c91313">Early Universe Cosmology</font> 
-* Classical cosmological collider physics and primordial features
+<ul>
+  <li> Classical cosmological collider physics and primordial features</li>
+</ul>
 
 ## <font color="#c91313">Galactic Astrophysics</font> 
-* Milky Way Accelerometry via Millisecond Pulsar Timing
+<ul>
+  <li> Milky Way accelerometry via millisecond pulsar timing</li>
+</ul>
 
 ***
 
